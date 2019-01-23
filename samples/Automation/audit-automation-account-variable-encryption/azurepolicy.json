@@ -1,6 +1,6 @@
 {
     "properties": {
-        "displayName": "Audit encryption of Automation account variables",
+        "displayName": "Test-Audit encryption of Automation account variables",
         "mode": "All",
         "description": "It is important to enable encryption of Automation account variable assets when storing sensitive data",
         "metadata": {
